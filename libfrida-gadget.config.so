@@ -1,0 +1,6 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "./libhook.so"
+  }
+}
