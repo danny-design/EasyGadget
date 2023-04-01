@@ -1,0 +1,2 @@
+# EasyGadget
+一个快速使用Frida-Gadget的Script模式的python脚本
